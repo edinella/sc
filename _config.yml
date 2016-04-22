@@ -23,3 +23,40 @@ theme: custom
 # Deployment
 deploy:
   type:
+
+# Editor
+prose:
+  rooturl: 'source/_posts'
+  siteurl: 'http://simplescrentes.org'
+  ignore:
+    - /_prose.yml
+    - /_config.yml
+    - /.editorconfig
+    - /.gitignore
+    - /.jshintrc
+    - /package.json
+    - /node_modules
+  metadata:
+    content/posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Título"
+          placeholder: "Título"
+          alterable: true
+      - name: "registro"
+        field:
+          element: "text"
+          label: "Código de Registro"
+          placeholder: "Código"
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Data, no formato: YYYY-MM-DD HH:MM:SS"
+          value: "CURRENT_DATETIME"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publicado"
+          value: false

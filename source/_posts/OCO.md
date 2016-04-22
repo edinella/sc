@@ -1,12 +1,6 @@
 title: OCO
 date: 2016-03-19 22:54:36
 registro: BG.876.Oco(876)'rBG-576p
-tags:
-versiculos:
-  - '"Deus tudo fez formoso em seu tempo. E também pôs a idéia de Eternidade no coração do homem". Eclesiastes 3:11.'
-  - '"Ó minha alma, espera somente em Deus, porque dele vem a minha esperança". Salmos 62:5.'
-  - '"A ti, SENHOR, levanto a minha alma". Salmos 25:1.'
-  - '"Tenho feito acalmar e sossegar a minha alma, como uma criança satisfeita sobre o seio da sua mãe". Salmo 131:2.'
 ---
 
 Um sábio disse que "o coração humano tem dentro de si um grande oco, e esse oco, esse vazio, tem forma de Deus".
