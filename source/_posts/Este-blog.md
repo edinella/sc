@@ -1,4 +1,6 @@
+---
 title: Este blog
+published: true
 date: 2016-03-20 21:32:29
 registro: BG.2097.CrenteOB.(2097)'rBG-576p
 ---

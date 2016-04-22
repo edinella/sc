@@ -1,4 +1,6 @@
+---
 title: OCO
+published: true
 date: 2016-03-19 22:54:36
 registro: BG.876.Oco(876)'rBG-576p
 ---
