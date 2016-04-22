@@ -1,0 +1,8 @@
+<div class="mdl-layout__drawer">
+  <span class="mdl-layout-title">Artigos</span>
+  <nav class="mdl-navigation">
+    <% site.posts.sort('date', -1).each(function(post){ %>
+      <a class="mdl-navigation__link<%- is_current(post.path)?' active':'' %>" href="<%- url_for(post.path) %>" title="<%- post.title %>"><%- post.title %></a>
+    <% }) %>
+  </nav>
+</div>

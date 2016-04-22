@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <%- partial('_partial/head') %>
+  </head>
+  <body>
+    <div class="mdl-layout mdl-js-layout">
+      <%- partial('_partial/drawer') %>
+      <main class="mdl-layout__content">
+        <%- partial('_partial/header') %>
+        <%- body %>
+        <%- partial('_partial/footer') %>
+      </main>
+    </div>
+  </body>
+  <script defer src="https://code.getmdl.io/1.1.3/material.min.js"></script>
+  <%- partial('_partial/ga') %>
+</html>

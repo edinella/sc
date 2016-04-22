@@ -1,0 +1,18 @@
+<div class="mdl-grid">
+  <aside class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone">
+    <span class="mdl-layout-title">Artigos</span>
+    <p>
+      <% site.posts.sort('date', -1).each(function(post){ %>
+        <a class="nav-item<%- is_current(post.path)?' active':'' %>" href="<%- url_for(post.path) %>" title="<%- post.title %>"><%- post.title %></a>
+      <% }) %>
+    </p>
+  </aside>
+  <div class="mdl-cell mdl-cell--8-col">
+    <div class="content mdl-color--white mdl-shadow--4dp mdl-color-text--grey-800">
+      <article>
+        <h2><%- post.title %></h2>
+        <%- post.content %>
+      </article>
+    </div>
+  </div>
+</div>
