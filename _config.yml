@@ -37,7 +37,7 @@ prose:
     - /package.json
     - /node_modules
   metadata:
-    content/posts:
+    source/posts:
       - name: "title"
         field:
           element: "text"
