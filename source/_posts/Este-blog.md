@@ -1,14 +1,6 @@
 title: Este blog
 date: 2016-03-20 21:32:29
 registro: BG.2097.CrenteOB.(2097)'rBG-576p
-tags:
-versiculos:
-  - '"Eleitos segundo a presciência de Deus Pai, em santificação do Espírito, para a obediência"... 1 Pedro 1:2.'
-  - '"Respondeu-lhes Jesus: Em verdade, em verdade vos digo que todo aquele que comete pecado é servo do pecado". João 8:34.'
-  - '"Não foi com coisas corruptíveis, como prata ou ouro, que fostes resgatados da vossa vã maneira de viver que por tradição recebestes dos vossos pais, mas com o precioso sangue de Cristo". 1 Pedro 1:18,19.'
-  - '"Purificando as vossas almas pelo Espírito na obediência à verdade". 1 Pedro 1:22.'
-  - '"Paulo, escravo de Jesus Cristo"... Rm.1:1.'
-  - '"O Filho de Deus, aprendeu a obediência, por aquilo que padeceu.<br />E, sendo ele consumado, veio a ser a causa da eterna salvação para todos os que lhe obedecem". Hebreus 5:8,9.'
 ---
 
 As muitas igrejas cristãs espalhadas pelo mundo geralmente estão formadas por pessoas que seguem a Cristo com vários graus de interesse, de seriedade e responsabilidade, esforçando-se por viver dia a dia de maneira que Deus se agrade delas.
