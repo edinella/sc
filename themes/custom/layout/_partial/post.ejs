@@ -1,5 +1,5 @@
 <div class="mdl-grid">
-  <aside class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone">
+  <aside class="mdl-cell mdl-cell--3-col mdl-cell--hide-tablet mdl-cell--hide-phone">
     <span class="mdl-layout-title">Artigos</span>
     <p>
       <% site.posts.sort('date', -1).each(function(post){ %>
@@ -7,7 +7,7 @@
       <% }) %>
     </p>
   </aside>
-  <div class="mdl-cell mdl-cell--8-col">
+  <div class="mdl-cell mdl-cell--9-col">
     <div class="content mdl-color--white mdl-shadow--4dp mdl-color-text--grey-800">
       <article>
         <h2><%- post.title %></h2>
