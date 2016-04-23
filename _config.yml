@@ -31,6 +31,7 @@ prose:
   ignore:
     - /_prose.yml
     - /_config.yml
+    - /wercker.yml
     - /.editorconfig
     - /.gitignore
     - /.jshintrc
