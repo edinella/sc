@@ -7,12 +7,12 @@ build:
         echo "node version $(node -v) running"
         echo "npm version $(npm -v) running"
     - npm-install
+deploy:
+  steps:
     - script:
       name: generate pages
       code: |
-        npm run generate
-deploy:
-  steps:
+      npm run generate
     - script:
         name: push to Surge.sh
         code: ./node_modules/.bin/surge ./public --token $SURGE_TOKEN
