@@ -45,4 +45,5 @@ Nele estava a vida...**"
 —Pelo versículo 14, que diz: "**e o Verbo se fez carne, e habitou entre nós**". E também pelo versículo 17 que diz: "**A graça e a verdade vieram por Jesus Cristo**".
 É conveniente que cada um de nós leia este capítulo em sua própria Bíblia, em outro momento adorando a Deus em silêncio ao mesmo tempo. A Bíblia é a semente espiritual de Deus, e diz muito mais a respeito de Cristo e de sua deidade, do que já limos.
 Por hoje, já basta para aprender um pouco do que a Bíblia diz a respeito de Cristo. Deixemos agora estas verdades criar raízes no nosso coração.
-<oscarluz70@gmail.com>
+
+oscarluz70@gmail.com
