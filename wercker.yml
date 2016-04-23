@@ -15,4 +15,4 @@ deploy:
   steps:
     - script:
         name: push to Surge.sh
-        code: ./node_modules/surge/bin/surge ./public --token $SURGE_TOKEN
+        code: ./node_modules/.bin/surge ./public --token $SURGE_TOKEN
