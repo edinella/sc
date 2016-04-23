@@ -12,7 +12,7 @@ deploy:
     - script:
       name: generate pages
       code: |
-      npm run generate
+        npm run generate
     - script:
         name: push to Surge.sh
         code: ./node_modules/.bin/surge ./public --token $SURGE_TOKEN
